@@ -1,6 +1,6 @@
 # React Boilerplate 
 
-Make a React boilerplate to start a react web app project easier.
+Make a React boilerplate to start a React web app project easier.
 
 ## Install Dev Tool Packages
 
