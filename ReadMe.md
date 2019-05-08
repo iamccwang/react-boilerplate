@@ -51,7 +51,7 @@ npm install --save node-sass normalize.css
 ├── src                     # source content folder
 │   ├── styles              # client side image files
 │   └── components          # react components
-├── template                # html template
+├── templates               # html templates
 ├── package.json            
 ├── package-lock.json
 ├── ReadMe.md          

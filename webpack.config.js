@@ -36,7 +36,7 @@ const webpackConfig = (env, argv) => ({
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             filename: "index.html",
-            template: "template/index.html"
+            template: "templates/index.html"
         }),
         new MiniCSSExtractPlugin({
             filename: "css/bundle.[hash].min.css"
