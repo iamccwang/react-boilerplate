@@ -58,3 +58,15 @@ npm install --save node-sass normalize.css
 ├── webpack.config.js       
 └── ...
 ```
+
+## How to work on this boilerplate
+
+Run dev-server to develop web app
+```
+npm run dev-server 
+```
+
+Run build to generate files and push to produtcion
+```
+npm run build
+```
